@@ -1,4 +1,4 @@
-class SolftdrinksController < ApplicationController
+class SoftdrinksController < ApplicationController
   def coke
   end
 

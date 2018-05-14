@@ -1,4 +1,4 @@
-class MilkController < ApplicationController
+class MilksController < ApplicationController
   def milk
   end
 
